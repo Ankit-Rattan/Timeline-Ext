@@ -1,0 +1,111 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+  width: 380px;
+  color: #333;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#productivity {
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.site-card {
+  background: white;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.site-top {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+}
+
+.site-meta {
+  margin-top: 6px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.badge {
+  padding: 3px 8px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
+
+.badge.work { background-color: #10b981; }
+.badge.education { background-color: #3b82f6; }
+.badge.neutral { background-color: #9ca3af; }
+.badge.social { background-color: #facc15; color: black; }
+.badge.distraction { background-color: #ef4444; }
+
+#reset {
+  margin-top: 20px;
+  width: 100%;
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#reset:hover {
+  background-color: #dc2626;
+}
+
+canvas {
+  margin-bottom: 20px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.button-row button {
+  flex: 1;
+  padding: 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#refresh {
+  background-color: #3b82f6;
+  color: white;
+}
+
+#refresh:hover {
+  background-color: #2563eb;
+}
+
+#export {
+  background-color: #10b981;
+  color: white;
+}
+
+#export:hover {
+  background-color: #059669;
+}

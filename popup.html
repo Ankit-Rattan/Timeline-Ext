@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Time Tracker</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <h1>⏱️ 24h Productivity</h1>
+  <div id="productivity">Loading...</div>
+  <canvas id="timeChart" width="350" height="200"></canvas>
+
+  <div id="siteList"></div>
+
+  <div class="button-row">
+    <button id="refresh">🔄 Refresh</button>
+    <button id="export">📤 Export CSV</button>
+  </div>
+
+  <script src="chart.min.js"></script>
+  <script src="popup.js" defer></script>
+</body>
+
+</html>
