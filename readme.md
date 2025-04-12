@@ -4,7 +4,7 @@ A simple and optimized extension that tracks your efficiency on websites, catego
 
 This extension is perfect for professionals, students, or anyone who wants to stay productive while using the internet. You can monitor your browsing habits, set time limits on certain websites (such as YouTube), and get notifications when your time limit is up!
 
-~ Progress under CBC.
+## ~ Progress under CBC.
 
 ---
 
@@ -20,4 +20,8 @@ This extension is perfect for professionals, students, or anyone who wants to st
 
 ---
 
-![Alt text](https://link_to_your_image.com/path/to/image.png)
+![Alt text](https://github.com/Ankit-Rattan/Timeline-Ext/blob/main/utils/one.png)
+
+![Alt text](https://github.com/Ankit-Rattan/Timeline-Ext/blob/main/utils/two.png)
+
+![Alt text](https://github.com/Ankit-Rattan/Timeline-Ext/blob/main/utils/three.png)
