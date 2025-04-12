@@ -4,7 +4,6 @@ A simple and optimized extension that tracks your efficiency on websites, catego
 
 This extension is perfect for professionals, students, or anyone who wants to stay productive while using the internet. You can monitor your browsing habits, set time limits on certain websites (such as YouTube), and get notifications when your time limit is up!
 
-## ~ Progress under CBC.
 
 ---
 
