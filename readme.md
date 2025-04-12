@@ -1,4 +1,4 @@
-# Website Time Tracker Chrome Extension
+# Timeline Extension
 
 A simple and lightweight Chrome extension that tracks the amount of time you spend on websites, categorizes them into work, education, social, distraction, and more, and allows you to manage your time effectively.
 
